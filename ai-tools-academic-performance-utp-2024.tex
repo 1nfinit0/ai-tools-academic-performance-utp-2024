@@ -1,0 +1,145 @@
+\documentclass{article}
+
+%===============================
+%
+%          📦 Paquetes
+%
+%===============================
+
+% === Configuración del documento y tipografía ===
+\usepackage[a4paper, top=3cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+
+% === Gráficos y representaciones visuales ===
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+% === Estilo y personalización ===
+\usepackage{titling}
+\usepackage{titlesec}
+\usepackage{tocloft} 
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{caption}
+
+% === Matemáticas y símbolos ===
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{cancel}
+
+% === Estructura y disposición del contenido ===
+\usepackage{array}
+\usepackage{multicol}
+\usepackage{float}
+\usepackage{indentfirst}
+
+% === Hipervínculos y referencias ===
+\usepackage{hyperref}
+
+%===============================
+%
+%          ⬆️⬇️ Cabeceras
+%
+%===============================
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\includegraphics[width=2cm]{assets/logo.png}}
+\fancyhead[R]{\textit{Estadística descriptiva y probabilidad}}
+\fancyfoot[R]{\thepage}
+\setlength{\headheight}{22.9188pt}
+\addtolength{\topmargin}{-5.64944pt}
+
+%======================================
+%
+%          📑 Espaciado de Párrafos
+%
+%======================================
+
+\setlength{\parskip}{1.5em}
+\setlength{\parindent}{0pt}
+
+%======================================
+%
+%          📕 Estrucura del título
+%
+%======================================
+
+\title{
+  \pagenumbering{gobble}
+  \includegraphics[width=5cm]{./assets/logo-utp.png} \\
+  \vspace{1cm}
+  \textbf{Universidad Tecnológica del Perú} \\
+  \vspace{2cm}
+  \textbf{Análisis estadístico-descriptivo sobre el uso de herramientas de inteligencia artificial en el rendimiento académico de los alumnos de la UTP darante el periodo académico 2024 I - II} \\
+  \vspace{1cm}
+  \large \textbf{Para el curso de Estadística descriptiva y probabilidad.}
+}
+\author{
+  \begin{tabular}{ll}
+    \textbf{Aguilar Quispe, Tania} & \texttt{U24203198} \\
+    \textbf{Aranda Ramirez, Ángelo} & \texttt{U24219470} \\
+    \textbf{Huatay Salcedo, Luis} & \texttt{U24218809} \\
+    \textbf{Salgado Bravo, Gabriela} & \texttt{U24259007} \\
+    \textbf{Torres Vara, Mateo} & \texttt{U24308542} \\
+  \end{tabular} \\\\
+  \texttt{Sección 24229}
+}
+
+\begin{document}
+\maketitle
+\begin{center}
+
+  Docente. Mg. Luis Fernando Velarde Vela
+
+\end{center}
+
+%======================================
+%
+%          📚 Inicio del documento
+%
+%======================================
+
+\newpage
+
+% Inicio de la numeración de páginas (desde aquí)
+\pagenumbering{arabic}
+\setcounter{page}{2}  
+
+\tableofcontents
+\thispagestyle{fancy}
+
+% Introducción
+\include{components/introduccion/introduccion}
+
+% Marco Teórico
+\include{components/marco-teorico/marcoTeorico}
+
+% Problemática
+\include{components/problematica/problematica}
+
+%Objetivos
+\include{components/objetivos/objetivos}
+
+
+% Términos estadísticos
+\include{components/terminosEstadisticos/terminosEstadisticos}
+
+%Recoleccion de datos
+\include{components/dataharvest/recoleccionData}
+
+
+% Metología
+\include{components/metodologia/metodologia}
+
+% Desarollo
+\include{components/analisis-desarrollo/analisis}
+
+%Referencias
+
+
+\end{document}
