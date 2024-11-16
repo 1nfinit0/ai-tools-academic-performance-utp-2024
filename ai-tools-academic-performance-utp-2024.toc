@@ -17,3 +17,7 @@
 \contentsline {section}{\numberline {8}Análisis y Desarrollo}{11}{section.8}%
 \contentsline {subsection}{\numberline {8.1}Género de la muestra:}{11}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Carrera a la que pertenecen los estudiantes:}{12}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Edades de los encuestados}{14}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Empleo en horas a la semana de las I.A.}{16}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Percepción del Impacto Negativo de la I.A. en el aprendizaje}{17}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Percepción del porcentaje de tareas automatizadas gracias al uso de herramientas de I.A.}{18}{subsection.8.6}%
