@@ -1,5 +1,5 @@
 \subsection{Edades de los encuestados}
-	\textbf{Tabla de Frecuencias:}
+	\noindent \textbf{Tabla de Frecuencias:} 
 	Tabla que refleja las distribución de las respuestas de los encuestados ante los rangos de edades proporciados en la encuesta; muestra a su vez la frecuencia absoluta, frecuencia absoluta acumulada, frecuencia relativa(porcentual) y frecuencia relativa(porcentual) acumulada.
 	
 	%3ra pregunta del cuestionario, tabla de edades
@@ -21,14 +21,14 @@
 		\caption{Distribución de respuestas por rango de edad}
 		\label{tabla:edad}
 	\end{table}
-	
-	\textbf{Media (\(\overline{x}\))}: Para el rango "19 años o menos" se ha tomado como referencia 17.5
+	% Formula y solución de la media(promedio)
+	\noindent \textbf{Media (\(\overline{X}\))}: Para el rango "19 años o menos" se ha tomado como referencia 17.5
 	\begin{equation*}
 		\overline{X} = \frac{\sum (x_i \cdot f_i)}{\sum f_i} = \frac{(17.5 \cdot 39) + (21.5 \cdot 20) + (25.5 \cdot 8) + (30 \cdot 10)}{77} \approx 20.99
-	\end{equation*}
+	\end{equation*}\\
+	
 	% Formula y solución de la mediana
-	\textbf{Mediana}:
-	La mediana es el valor que divide el conjunto de datos en dos partes iguales. Con \(N = 77\), la mediana se encuentra en la posición:
+	\noindent \textbf{Mediana}: La mediana es el valor que divide el conjunto de datos en dos partes iguales. Con \(N = 77\), la mediana se encuentra en la posición:
 	\begin{equation*}
 		\text{Posición de la mediana} = \frac{N + 1}{2} = \frac{77 + 1}{2} = 39
 	\end{equation*}
@@ -36,7 +36,6 @@
 	
 	% Solución de la moda
 	\textbf{Moda}: La moda es el valor con la mayor frecuencia, que en este caso es Menos de 19 años con \(f_i = 39\).
-
 	\begin{figure}[H]
 		\centering
 		\hspace*{-1.5cm}
@@ -52,8 +51,8 @@
 				grid=major,
 				smooth,
 				tension=0.5,
-				extra tick style={opacity=0},
-				title={Gráfico de tendencia central} %Invisibiliza los ticks extra declarados
+				extra tick style={opacity=0}, %Invisibiliza los ticks extradeclarados
+				title={Gráficos de medidas de tendencia central}
 				]
 				
 				% Poligono de frecuencias
@@ -93,6 +92,5 @@
 		\end{tikzpicture}
 		\caption{Gráfico de frecuencia con línea de tendencia}
 	\end{figure}
-	\textbf{Interpretación de resultados:}
-	
+	\textbf{Interpretación de Resultados}
 	Se puede apreciar que la concentración de las edades está alrededor del rango de "menos de 19 años" dado que tanto la moda como la media pertenecen a este rango
