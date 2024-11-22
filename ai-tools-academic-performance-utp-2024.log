@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.8)  17 NOV 2024 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.8)  22 NOV 2024 11:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -770,7 +770,7 @@ Package hyperref Info: Link coloring OFF on input line 93.
 \@outlinefile=\write4
 \openout4 = `ai-tools-academic-performance-utp-2024.out'.
 
-<./assets/logo-utp.png, id=95, 2055.68pt x 493.845pt>
+<./assets/logo-utp.png, id=103, 2055.68pt x 493.845pt>
 File: ./assets/logo-utp.png Graphic file (type png)
 <use ./assets/logo-utp.png>
 Package pdftex.def Info: ./assets/logo-utp.png  used on input line 95.
@@ -791,7 +791,7 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@toc=\write5
 \openout5 = `ai-tools-academic-performance-utp-2024.toc'.
 
-<assets/logo.png, id=129, 1288.815pt x 437.635pt>
+<assets/logo.png, id=139, 1288.815pt x 437.635pt>
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 117.
@@ -886,16 +886,16 @@ Package pdftex.def Info: assets/logo.png  used on input line 137.
 ]
 \openout2 = `components/analisis-desarrollo/analisis.aux'.
 
- (./components/analisis-desarrollo/analisis.tex (./components/analisis-desarrollo/desarrollo/q1-genero/generoDeLaMuestra.tex) (./components/analisis-desarrollo/desarrollo/q2-carrera/carrera.tex
+ (./components/analisis-desarrollo/analisis.tex (./components/analisis-desarrollo/desarrollo/q1-genero/generoDeLaMuestra.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 4.
+Package pdftex.def Info: assets/logo.png  used on input line 9.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
  [11
 
 
 
-]
+] (./components/analisis-desarrollo/desarrollo/q2-carrera/carrera.tex
 Overfull \hbox (2.45453pt too wide) in paragraph at lines 30--30
 []|\OT1/cmr/bx/n/7 DER| 
  []
@@ -994,12 +994,12 @@ Package pgfplots info on input line 96: Using 'lua backend=false' for axis: x co
 )
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 12.
+Package pdftex.def Info: assets/logo.png  used on input line 13.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
  [13] (./components/analisis-desarrollo/desarrollo/q3-edad/edadDeLaMuestra.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 16.
+Package pdftex.def Info: assets/logo.png  used on input line 17.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
  [14] (./components/analisis-desarrollo/desarrollo/q14-empleoEnHoras/EmpleoEnHorasXSemanaDeLasIA.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -1009,7 +1009,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 )
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 20.
+Package pdftex.def Info: assets/logo.png  used on input line 21.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
  [15] (./components/analisis-desarrollo/desarrollo/q15-impactoNegativo/PercepcionDelImpactoNegativoDeLaIAEnElAprendizaje.tex
 Underfull \hbox (badness 10000) in paragraph at lines 24--27
@@ -1024,14 +1024,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--27
 )
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 24.
+Package pdftex.def Info: assets/logo.png  used on input line 25.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [16] (./components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/PercepcionTareasAutomatizadasPorElUsoDeLaIA.tex))
+ [16] (./components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/PercepcionTareasAutomatizadasPorElUsoDeLaIA.tex)
+File: assets/logo.png Graphic file (type png)
+<use assets/logo.png>
+Package pdftex.def Info: assets/logo.png  used on input line 29.
+(pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
+ [17] (./components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex)
+File: assets/logo.png Graphic file (type png)
+<use assets/logo.png>
+Package pdftex.def Info: assets/logo.png  used on input line 33.
+(pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
+ [18] (./components/analisis-desarrollo/desarrollo/q18-formacion/formacion.tex))
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 140.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [17]
+ [19]
 \openout2 = `components/referencias/referencias.aux'.
 
  (./components/referencias/referencias.tex)
@@ -1039,7 +1049,7 @@ File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 143.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [18
+ [20
 
 
 
@@ -1052,21 +1062,21 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `ai-tools-academic-performance-utp-2024.out' has not changed.
-(rerunfilecheck)             Checksum: E66A4C5FCA9B4226E86FD1FF00C594D3;4415.
+(rerunfilecheck)             Checksum: 70FF4362B182B01B8165F930FB4C8FCE;5229.
  ) 
 Here is how much of TeX's memory you used:
- 35436 strings out of 476014
- 814815 string characters out of 5792005
+ 35458 strings out of 476014
+ 815811 string characters out of 5792005
  1957187 words of memory out of 5000000
- 56833 multiletter control sequences out of 15000+600000
+ 56842 multiletter control sequences out of 15000+600000
  567363 words of font info for 72 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  102i,21n,107p,2479b,2313s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ai-tools-academic-performance-utp-2024.pdf (18 pages, 264836 bytes).
+Output written on ai-tools-academic-performance-utp-2024.pdf (20 pages, 269586 bytes).
 PDF statistics:
- 345 PDF objects out of 1000 (max. 8388607)
- 290 compressed objects within 3 object streams
- 92 named destinations out of 1000 (max. 500000)
- 199 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 367 PDF objects out of 1000 (max. 8388607)
+ 309 compressed objects within 4 object streams
+ 97 named destinations out of 1000 (max. 500000)
+ 215 words of extra memory for PDF output out of 10000 (max. 10000000)
 
