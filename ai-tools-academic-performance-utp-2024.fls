@@ -494,6 +494,10 @@ INPUT ./components/analisis-desarrollo/desarrollo/q18-formacion/formacion.tex
 INPUT ./components/analisis-desarrollo/desarrollo/q18-formacion/formacion.tex
 INPUT components/analisis-desarrollo/desarrollo/q18-formacion/formacion.tex
 INPUT ./assets/logo.png
+INPUT ./components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex
+INPUT ./components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex
+INPUT components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex
+INPUT ./assets/logo.png
 INPUT ./components/referencias/referencias.tex
 INPUT ./components/referencias/referencias.tex
 OUTPUT components/referencias/referencias.aux
