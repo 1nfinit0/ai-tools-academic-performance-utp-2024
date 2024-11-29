@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.3)  28 NOV 2024 11:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.11.3)  29 NOV 2024 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1140,7 +1140,7 @@ Package hyperref Info: Link coloring OFF on input line 93.
 \@outlinefile=\write4
 \openout4 = `ai-tools-academic-performance-utp-2024.out'.
 
-<./assets/logo-utp.png, id=118, 2055.68pt x 493.845pt>
+<./assets/logo-utp.png, id=130, 2055.68pt x 493.845pt>
 File: ./assets/logo-utp.png Graphic file (type png)
 <use ./assets/logo-utp.png>
 Package pdftex.def Info: ./assets/logo-utp.png  used on input line 95.
@@ -1170,7 +1170,7 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 
-<assets/logo.png, id=158, 1288.815pt x 437.635pt>
+<assets/logo.png, id=173, 1288.815pt x 437.635pt>
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 117.
@@ -1394,7 +1394,40 @@ File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 17.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[14]
+[14] (components/analisis-desarrollo/desarrollo/q5-motivos/motivos.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+
+File: assets/logo.png Graphic file (type png)
+<use assets/logo.png>
+Package pdftex.def Info: assets/logo.png  used on input line 100.
+(pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
+[15])
+
+File: assets/logo.png Graphic file (type png)
+<use assets/logo.png>
+Package pdftex.def Info: assets/logo.png  used on input line 21.
+(pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
+[16]
+(components/analisis-desarrollo/desarrollo/q6-influenciaEnNotas/influenciaEnNot
+as.tex)
+
+File: assets/logo.png Graphic file (type png)
+<use assets/logo.png>
+Package pdftex.def Info: assets/logo.png  used on input line 25.
+(pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
+[17]
+(components/analisis-desarrollo/desarrollo/q7-confianzaEnResultados/confianzaEn
+Resultados.tex)
+
+File: assets/logo.png Graphic file (type png)
+<use assets/logo.png>
+Package pdftex.def Info: assets/logo.png  used on input line 29.
+(pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
+[18]
 (components/analisis-desarrollo/desarrollo/q8-pensamientoCritico/pensamientoCri
 tico.tex
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
@@ -1410,25 +1443,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--25
 
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 21.
+Package pdftex.def Info: assets/logo.png  used on input line 33.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[15]
+[19]
 (components/analisis-desarrollo/desarrollo/q9-analisisDeDocumentos/analisisDeDo
 cumentos.tex)
 
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 25.
+Package pdftex.def Info: assets/logo.png  used on input line 37.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[16]
+[20]
 (components/analisis-desarrollo/desarrollo/q10-investigacionIndependiente/inves
 tigacionIndependiente.tex)
 
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 29.
+Package pdftex.def Info: assets/logo.png  used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[17]
+[21]
 (components/analisis-desarrollo/desarrollo/q14-empleoEnHoras/EmpleoEnHorasXSema
 naDeLasIA.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
@@ -1439,9 +1472,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 33.
+Package pdftex.def Info: assets/logo.png  used on input line 45.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[18]
+[22]
 (components/analisis-desarrollo/desarrollo/q15-impactoNegativo/PercepcionDelImp
 actoNegativoDeLaIAEnElAprendizaje.tex
 Underfull \hbox (badness 10000) in paragraph at lines 24--27
@@ -1457,9 +1490,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 24--27
 
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 37.
+Package pdftex.def Info: assets/logo.png  used on input line 49.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[19]
+[23]
 (components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/PercepcionTa
 reasAutomatizadasPorElUsoDeLaIA.tex
 Overfull \hbox (18.55869pt too wide) detected at line 32
@@ -1471,27 +1504,27 @@ Overfull \hbox (18.55869pt too wide) detected at line 32
 
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 41.
+Package pdftex.def Info: assets/logo.png  used on input line 53.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[20] (components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex)
+[24] (components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex)
 
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 45.
+Package pdftex.def Info: assets/logo.png  used on input line 57.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[21] (components/analisis-desarrollo/desarrollo/q18-formacion/formacion.tex)
+[25] (components/analisis-desarrollo/desarrollo/q18-formacion/formacion.tex)
 
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 49.
+Package pdftex.def Info: assets/logo.png  used on input line 61.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[22] (components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex))
+[26] (components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex))
 
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 140.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[23]
+[27]
 \openout2 = `components/referencias/referencias.aux'.
 
  (components/referencias/referencias.tex)
@@ -1500,7 +1533,7 @@ File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 143.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
-[24
+[28
 
 
 
@@ -1522,16 +1555,16 @@ L3 programming layer <2024-10-09>
  ***********
 Package rerunfilecheck Info: File `ai-tools-academic-performance-utp-2024.out' 
 has not changed.
-(rerunfilecheck)             Checksum: 5339EDE6552AC4BA65FFAB86D3892403;6872.
+(rerunfilecheck)             Checksum: E9B0A8C6759303BE5ACC3AF3494FB03A;8142.
  ) 
 Here is how much of TeX's memory you used:
- 35688 strings out of 473701
- 840426 string characters out of 5716049
- 1311629 words of memory out of 5000000
- 57967 multiletter control sequences out of 15000+600000
- 567363 words of font info for 72 fonts, out of 8000000 for 9000
+ 35749 strings out of 473701
+ 843204 string characters out of 5716049
+ 1312264 words of memory out of 5000000
+ 58001 multiletter control sequences out of 15000+600000
+ 568061 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,21n,107p,2434b,2313s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,21n,107p,2434b,2314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Mateo Torres/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmbx10.pfb><C:/Users/Mateo Torres/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Mateo Torres/AppData/Local/Programs
@@ -1542,17 +1575,18 @@ b><C:/Users/Mateo Torres/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
 nts/cm/cmmi7.pfb><C:/Users/Mateo Torres/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmr10.pfb><C:/Users/Mateo Torres/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Mateo Torres/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Mateo To
-rres/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/Mateo To
+rres/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/
 Users/Mateo Torres/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmsy10.pfb><C:/Users/Mateo Torres/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmsy7.pfb><C:/Users/Mateo Torres/AppData/Local/Programs/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Mateo Torres/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ai-tools-academic-performance-utp-2024.pdf (24 pages, 327991 
+/cmr9.pfb><C:/Users/Mateo Torres/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Users/Mateo Torres/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Mateo Torres/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Mateo Torres
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on ai-tools-academic-performance-utp-2024.pdf (28 pages, 357166 
 bytes).
 PDF statistics:
- 406 PDF objects out of 1000 (max. 8388607)
- 110 named destinations out of 1000 (max. 500000)
- 247 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 449 PDF objects out of 1000 (max. 8388607)
+ 121 named destinations out of 1000 (max. 500000)
+ 271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
