@@ -18,9 +18,12 @@
 \contentsline {subsection}{\numberline {8.1}Género de la muestra:}{11}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Carrera a la que pertenecen los estudiantes:}{12}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}Edades de los encuestados}{14}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Empleo en horas a la semana de las I.A.}{15}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Percepción del Impacto Negativo de la I.A. en el aprendizaje}{16}{subsection.8.5}%
-\contentsline {subsection}{\numberline {8.6}Percepción del porcentaje de tareas automatizadas gracias al uso de herramientas de I.A.}{17}{subsection.8.6}%
-\contentsline {subsection}{\numberline {8.7}Consideraciones sobre la regulacion de la IA en el ámbito académico.}{18}{subsection.8.7}%
-\contentsline {subsection}{\numberline {8.8}Sobre la capacitación o formación en el uso de inteligencia artificial.}{19}{subsection.8.8}%
-\contentsline {subsection}{\numberline {8.9}Sobre el futuro de la educación universitarial con la I.A.}{20}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.4}Influencia de la IA en la capacidad del pensamiento crítico}{15}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Propósito del uso de la función de análisis de documentos}{16}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Impacto de la I.A. en la capacidad de la investigación independiente}{17}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Empleo en horas a la semana de las I.A.}{18}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}Percepción del Impacto Negativo de la I.A. en el aprendizaje}{19}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}Percepción del porcentaje de tareas automatizadas gracias al uso de herramientas de I.A.}{20}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}Consideraciones sobre la regulacion de la IA en el ámbito académico.}{21}{subsection.8.10}%
+\contentsline {subsection}{\numberline {8.11}Sobre la capacitación o formación en el uso de inteligencia artificial.}{22}{subsection.8.11}%
+\contentsline {subsection}{\numberline {8.12}Sobre el futuro de la educación universitarial con la I.A.}{23}{subsection.8.12}%
