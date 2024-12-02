@@ -18,12 +18,15 @@
 \contentsline {subsection}{\numberline {8.1}Género de la muestra:}{11}{subsection.8.1}%
 \contentsline {subsection}{\numberline {8.2}Carrera a la que pertenecen los estudiantes:}{12}{subsection.8.2}%
 \contentsline {subsection}{\numberline {8.3}Edades de los encuestados}{14}{subsection.8.3}%
-\contentsline {subsection}{\numberline {8.4}Influencia de la IA en la capacidad del pensamiento crítico}{15}{subsection.8.4}%
-\contentsline {subsection}{\numberline {8.5}Propósito del uso de la función de análisis de documentos}{16}{subsection.8.5}%
-\contentsline {subsection}{\numberline {8.6}Impacto de la I.A. en la capacidad de la investigación independiente}{17}{subsection.8.6}%
-\contentsline {subsection}{\numberline {8.7}Empleo en horas a la semana de las I.A.}{18}{subsection.8.7}%
-\contentsline {subsection}{\numberline {8.8}Percepción del Impacto Negativo de la I.A. en el aprendizaje}{19}{subsection.8.8}%
-\contentsline {subsection}{\numberline {8.9}Percepción del porcentaje de tareas automatizadas gracias al uso de herramientas de I.A.}{20}{subsection.8.9}%
-\contentsline {subsection}{\numberline {8.10}Consideraciones sobre la regulacion de la IA en el ámbito académico.}{21}{subsection.8.10}%
-\contentsline {subsection}{\numberline {8.11}Sobre la capacitación o formación en el uso de inteligencia artificial.}{22}{subsection.8.11}%
-\contentsline {subsection}{\numberline {8.12}Sobre el futuro de la educación universitarial con la I.A.}{23}{subsection.8.12}%
+\contentsline {subsection}{\numberline {8.4}Confianza en los Resultados de la IA según Género de los estudiantes}{15}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Impacto Percibido del Uso de I.A. en el rendimiento académico}{17}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Confianza en los Resultados de la IA según Género de los estudiantes}{18}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}Influencia de la IA en la capacidad del pensamiento crítico}{19}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}Propósito del uso de la función de análisis de documentos}{20}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}Impacto de la I.A. en la capacidad de la investigación independiente}{21}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}Empleo en horas a la semana de las I.A.}{22}{subsection.8.10}%
+\contentsline {subsection}{\numberline {8.11}Percepción del Impacto Negativo de la I.A. en el aprendizaje}{23}{subsection.8.11}%
+\contentsline {subsection}{\numberline {8.12}Percepción del porcentaje de tareas automatizadas gracias al uso de herramientas de I.A.}{24}{subsection.8.12}%
+\contentsline {subsection}{\numberline {8.13}Consideraciones sobre la regulacion de la IA en el ámbito académico.}{25}{subsection.8.13}%
+\contentsline {subsection}{\numberline {8.14}Sobre la capacitación o formación en el uso de inteligencia artificial.}{26}{subsection.8.14}%
+\contentsline {subsection}{\numberline {8.15}Sobre el futuro de la educación universitarial con la I.A.}{27}{subsection.8.15}%
