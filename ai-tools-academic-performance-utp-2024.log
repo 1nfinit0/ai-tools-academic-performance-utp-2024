@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.8)  2 DEC 2024 19:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.11.8)  2 DEC 2024 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1013,27 +1013,22 @@ File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 21.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [15] (./components/analisis-desarrollo/desarrollo/q5-motivos/motivos.tex
-File: assets/logo.png Graphic file (type png)
-<use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 101.
-(pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [16])
+ [15] (./components/analisis-desarrollo/desarrollo/q5-motivos/motivos.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 25.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [17] (./components/analisis-desarrollo/desarrollo/q6-influenciaEnNotas/influenciaEnNotas.tex)
+ [16] (./components/analisis-desarrollo/desarrollo/q6-influenciaEnNotas/influenciaEnNotas.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 29.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [18] (./components/analisis-desarrollo/desarrollo/q7-confianzaEnResultados/confianzaEnResultados.tex)
+ [17] (./components/analisis-desarrollo/desarrollo/q7-confianzaEnResultados/confianzaEnResultados.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 33.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [19] (./components/analisis-desarrollo/desarrollo/q8-pensamientoCritico/pensamientoCritico.tex
+ [18] (./components/analisis-desarrollo/desarrollo/q8-pensamientoCritico/pensamientoCritico.tex
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
@@ -1048,32 +1043,32 @@ File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 37.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [20] (./components/analisis-desarrollo/desarrollo/q9-analisisDeDocumentos/analisisDeDocumentos.tex)
+ [19] (./components/analisis-desarrollo/desarrollo/q9-analisisDeDocumentos/analisisDeDocumentos.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 41.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [21] (./components/analisis-desarrollo/desarrollo/q10-investigacionIndependiente/investigacionIndependiente.tex)
+ [20] (./components/analisis-desarrollo/desarrollo/q10-investigacionIndependiente/investigacionIndependiente.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 45.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [22] (./components/analisis-desarrollo/desarrollo/q11-largoPlazo/aiAlLargoPlazo.tex)
+ [21] (./components/analisis-desarrollo/desarrollo/q11-largoPlazo/aiAlLargoPlazo.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 49.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [23] (./components/analisis-desarrollo/desarrollo/q12-riesgos/riesgos.tex)
+ [22] (./components/analisis-desarrollo/desarrollo/q12-riesgos/riesgos.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 53.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [24] (./components/analisis-desarrollo/desarrollo/q13-calidadDeRespuesta/calidad.tex)
+ [23] (./components/analisis-desarrollo/desarrollo/q13-calidadDeRespuesta/calidad.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 57.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [25] (./components/analisis-desarrollo/desarrollo/q14-empleoEnHoras/EmpleoEnHorasXSemanaDeLasIA.tex
+ [24] (./components/analisis-desarrollo/desarrollo/q14-empleoEnHoras/EmpleoEnHorasXSemanaDeLasIA.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--3
 
  []
@@ -1083,7 +1078,7 @@ File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 61.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [26] (./components/analisis-desarrollo/desarrollo/q15-impactoNegativo/PercepcionDelImpactoNegativoDeLaIAEnElAprendizaje.tex
+ [25] (./components/analisis-desarrollo/desarrollo/q15-impactoNegativo/PercepcionDelImpactoNegativoDeLaIAEnElAprendizaje.tex
 Underfull \hbox (badness 10000) in paragraph at lines 24--27
 
  []
@@ -1098,42 +1093,27 @@ File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 65.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [27] (./components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/PercepcionTareasAutomatizadasPorElUsoDeLaIA.tex
-Overfull \hbox (18.55869pt too wide) detected at line 32
-\OML/cmm/m/it/10 S[] \OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 ^^Y \OT1/cmr/m/n/10 291[]33
- []
-
-)
+ [26] (./components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/PercepcionTareasAutomatizadasPorElUsoDeLaIA.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 69.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [28]
-File: assets/logo.png Graphic file (type png)
-<use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 69.
-(pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [29] (./components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex)
+ [27] (./components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 73.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [30] (./components/analisis-desarrollo/desarrollo/q18-formacion/formacion.tex)
+ [28] (./components/analisis-desarrollo/desarrollo/q18-formacion/formacion.tex)
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 77.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [31] (./components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex))
+ [29] (./components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex))
 File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 141.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [32]
-File: assets/logo.png Graphic file (type png)
-<use assets/logo.png>
-Package pdftex.def Info: assets/logo.png  used on input line 141.
-(pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [33]
+ [30]
 \openout2 = `components/conclusiones/conclusiones.aux'.
 
  (./components/conclusiones/conclusiones.tex)
@@ -1141,7 +1121,7 @@ File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 144.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [34
+ [31
 
 
 
@@ -1153,7 +1133,7 @@ File: assets/logo.png Graphic file (type png)
 <use assets/logo.png>
 Package pdftex.def Info: assets/logo.png  used on input line 147.
 (pdftex.def)             Requested size: 56.9055pt x 19.31876pt.
- [35
+ [32
 
 
 
@@ -1169,18 +1149,18 @@ Package rerunfilecheck Info: File `ai-tools-academic-performance-utp-2024.out' h
 (rerunfilecheck)             Checksum: 20FEBA496C5A6E922353D26BA89C96E0;9589.
  ) 
 Here is how much of TeX's memory you used:
- 35764 strings out of 476014
- 825828 string characters out of 5792005
+ 35759 strings out of 476014
+ 825777 string characters out of 5792005
  1957187 words of memory out of 5000000
- 57049 multiletter control sequences out of 15000+600000
+ 57047 multiletter control sequences out of 15000+600000
  568061 words of font info for 74 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  102i,21n,107p,2479b,2314s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on ai-tools-academic-performance-utp-2024.pdf (35 pages, 323444 bytes).
+Output written on ai-tools-academic-performance-utp-2024.pdf (32 pages, 322190 bytes).
 PDF statistics:
- 526 PDF objects out of 1000 (max. 8388607)
- 450 compressed objects within 5 object streams
- 139 named destinations out of 1000 (max. 500000)
+ 513 PDF objects out of 1000 (max. 8388607)
+ 440 compressed objects within 5 object streams
+ 136 named destinations out of 1000 (max. 500000)
  327 words of extra memory for PDF output out of 10000 (max. 10000000)
 

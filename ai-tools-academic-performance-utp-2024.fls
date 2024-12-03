@@ -487,7 +487,6 @@ INPUT ./components/analisis-desarrollo/desarrollo/q5-motivos/motivos.tex
 INPUT ./components/analisis-desarrollo/desarrollo/q5-motivos/motivos.tex
 INPUT components/analisis-desarrollo/desarrollo/q5-motivos/motivos.tex
 INPUT ./assets/logo.png
-INPUT ./assets/logo.png
 INPUT ./components/analisis-desarrollo/desarrollo/q6-influenciaEnNotas/influenciaEnNotas.tex
 INPUT ./components/analisis-desarrollo/desarrollo/q6-influenciaEnNotas/influenciaEnNotas.tex
 INPUT components/analisis-desarrollo/desarrollo/q6-influenciaEnNotas/influenciaEnNotas.tex
@@ -534,7 +533,6 @@ INPUT ./components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/Percep
 INPUT ./components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/PercepcionTareasAutomatizadasPorElUsoDeLaIA.tex
 INPUT components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/PercepcionTareasAutomatizadasPorElUsoDeLaIA.tex
 INPUT ./assets/logo.png
-INPUT ./assets/logo.png
 INPUT ./components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex
 INPUT ./components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex
 INPUT components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex
@@ -546,7 +544,6 @@ INPUT ./assets/logo.png
 INPUT ./components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex
 INPUT ./components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex
 INPUT components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex
-INPUT ./assets/logo.png
 INPUT ./assets/logo.png
 INPUT ./components/conclusiones/conclusiones.tex
 INPUT ./components/conclusiones/conclusiones.tex
