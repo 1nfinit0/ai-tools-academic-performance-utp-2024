@@ -242,6 +242,8 @@ INPUT /usr/share/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/share/texmf-dist/tex/latex/float/float.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/indentfirst.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/share/texmf-dist/tex/latex/tocbibind/tocbibind.sty
+INPUT /usr/share/texmf-dist/tex/latex/tocbibind/tocbibind.sty
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/share/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
@@ -326,6 +328,9 @@ INPUT components/metodologia/metodologia.aux
 INPUT ./components/analisis-desarrollo/analisis.aux
 INPUT ./components/analisis-desarrollo/analisis.aux
 INPUT components/analisis-desarrollo/analisis.aux
+INPUT ./components/conclusiones/conclusiones.aux
+INPUT ./components/conclusiones/conclusiones.aux
+INPUT components/conclusiones/conclusiones.aux
 INPUT ./components/referencias/referencias.aux
 INPUT ./components/referencias/referencias.aux
 INPUT components/referencias/referencias.aux
@@ -529,6 +534,7 @@ INPUT ./components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/Percep
 INPUT ./components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/PercepcionTareasAutomatizadasPorElUsoDeLaIA.tex
 INPUT components/analisis-desarrollo/desarrollo/q16-tareasAutomatizadas/PercepcionTareasAutomatizadasPorElUsoDeLaIA.tex
 INPUT ./assets/logo.png
+INPUT ./assets/logo.png
 INPUT ./components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex
 INPUT ./components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex
 INPUT components/analisis-desarrollo/desarrollo/q17-regulacion/regulacion.tex
@@ -540,6 +546,14 @@ INPUT ./assets/logo.png
 INPUT ./components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex
 INPUT ./components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex
 INPUT components/analisis-desarrollo/desarrollo/q19-futuro/futuro.tex
+INPUT ./assets/logo.png
+INPUT ./assets/logo.png
+INPUT ./components/conclusiones/conclusiones.tex
+INPUT ./components/conclusiones/conclusiones.tex
+OUTPUT components/conclusiones/conclusiones.aux
+INPUT ./components/conclusiones/conclusiones.tex
+INPUT ./components/conclusiones/conclusiones.tex
+INPUT components/conclusiones/conclusiones.tex
 INPUT ./assets/logo.png
 INPUT ./components/referencias/referencias.tex
 INPUT ./components/referencias/referencias.tex
@@ -573,6 +587,9 @@ INPUT components/metodologia/metodologia.aux
 INPUT ./components/analisis-desarrollo/analisis.aux
 INPUT ./components/analisis-desarrollo/analisis.aux
 INPUT components/analisis-desarrollo/analisis.aux
+INPUT ./components/conclusiones/conclusiones.aux
+INPUT ./components/conclusiones/conclusiones.aux
+INPUT components/conclusiones/conclusiones.aux
 INPUT ./components/referencias/referencias.aux
 INPUT ./components/referencias/referencias.aux
 INPUT components/referencias/referencias.aux

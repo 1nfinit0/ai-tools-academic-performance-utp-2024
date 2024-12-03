@@ -25,33 +25,33 @@ Solo se utilizarán los datos correspondientes al nivel de confianza moderada pa
 
 \textbf{Probabilidades a Priori:}La probabilidad de que un estudiante tenga confianza moderada en los resultados de la IA es igual a la proporción de estudiantes que seleccionaron esta respuesta.
 \begin{equation*}
-	P(\textit{Confianza moderada}) = \frac{\textit{Frecuencia de confianza moderada}}{\textit{Total de estudiantes}} = \frac{46}{77} \approx 0.60
+	P(\textit{Confianza moderada}) = \dfrac{\textit{Frecuencia de confianza moderada}}{\textit{Total de estudiantes}} = \dfrac{46}{77} \approx 0.60
 \end{equation*}
 Ahora la probabilidad de que un estudiante sea masculino o femenino basado en las respuestas de:
 \begin{multicols}{2}
 	\begin{equation*}
-		P(\textit{Masculino}) = \frac{51}{77} \approx 0.66
+		P(\textit{Masculino}) = \dfrac{51}{77} \approx 0.66
 	\end{equation*}
 	\begin{equation*}
-		P(\textit{Femenino}) = \frac{26}{77} \approx 0.34
+		P(\textit{Femenino}) = \dfrac{26}{77} \approx 0.34
 	\end{equation*}
 \end{multicols}
 \vspace{-0.5cm}
 
 \textbf{Probabilidades condicionales:}La probabilidad de que un estudiante masculino y uno femenino tenga confianza moderada en los resultados de la IA es respectivamente:
 \begin{equation*}
-	P(\textit{Confianza moderada|Masculino}) = \frac{\textit{Frec. de Confianza en Masculinos}}{\textit{Total de masculinos}} = \frac{28}{51} \approx 0.55
+	P(\textit{Confianza moderada|Masculino}) = \dfrac{\textit{Frec. de Confianza en Masculinos}}{\textit{Total de masculinos}} = \dfrac{28}{51} \approx 0.55
 \end{equation*}
 \begin{equation*}
-	P(\textit{Confianza moderada|Femenino}) = \frac{\textit{Frec. de Confianza en Femeninos}}{\textit{Total de femeninos}} = \frac{18}{26} \approx 0.69
+	P(\textit{Confianza moderada|Femenino}) = \dfrac{\textit{Frec. de Confianza en Femeninos}}{\textit{Total de femeninos}} = \dfrac{18}{26} \approx 0.69
 \end{equation*}
 
 \textbf{Aplicación del Teorema de Bayes:} Aplicamos el Teorema de Bayes para calcular la probabilidad de que un estudiante sea masculino, dado que tiene confianza moderada en los resultados de la IA:
 \begin{equation*}
-	P(\textit{Masculino|Confianza Moderada}) = \frac{0.55 . 0.66}{0.60} \approx 0.61
+	P(\textit{Masculino|Confianza Moderada}) = \dfrac{0.55 . 0.66}{0.60} \approx 0.61
 \end{equation*}
 \begin{equation*}
-	P(\textit{Femenino|Confianza Moderada}) = \frac{0.69 . 0.34}{0.60} \approx 0.39
+	P(\textit{Femenino|Confianza Moderada}) = \dfrac{0.69 . 0.34}{0.60} \approx 0.39
 \end{equation*}
 La probabilidad de que un estudiante con confianza moderada en los resultados de la IA sea masculino es 61\%, mientras que la probabilidad de que sea femenino es 39\%.
 
