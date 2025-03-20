@@ -56,4 +56,4 @@ El análisis se centró en los siguientes aspectos:
 
 ## Estado del proyecto
 
-El informe y los análisis asociados están en desarrollo y pueden estar sujetos a cambios y ajustes a medida que se avance en la recolección de datos y en el análisis adicional de los resultados.
+EL informe se encuentra terminado, teniendo en cuenta la nota aprobatoria y sobresaliente de los involucrados en su desarrollo y redacción, se puede concluir que fue exitoso.
